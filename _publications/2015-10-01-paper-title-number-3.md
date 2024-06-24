@@ -1,13 +1,7 @@
 ---
-title: "Paper Title Number 3"
+title: "G-K BertDTA: A graph representation learning and semantic embedding-based framework for drug-target affinity prediction"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+date: 2024-03-24
+venue: 'Computers in Biology and Medicine'
+paperurl: 'http://AmbitYuki.github.io/files/4.G-K BertDTA.pdf'
+citation: 'Qiu, X., Wang, H., Tan, X., & Fang, Z. (2024). GK BertDTA: a graph representation learning and semantic embedding-based framework for drug-target affinity prediction. Computers in Biology and Medicine, 173, 108376.'
