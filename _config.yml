@@ -22,9 +22,9 @@ repository               : "AmbitYuki/AmbitYuki.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "I hope that my work can contribute to the flourishing development of artificial intelligence, fostering progress and peace in the world."
+  name             : "Haoyu Wang"
+  # pronouns         : # example: "she/her"  
+  bio              : "I hope that my work can contribute to the flourishing development of AI, fostering progress and peace in the world."
   location         : "Shanghai"
   # employer         : "Red Brick University"
   # uri              : # URL
