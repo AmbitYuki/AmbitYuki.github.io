@@ -13,7 +13,7 @@ I have developed a graph neural network reinforcement learning framework based o
 
 Computational Biomedical and Medical Engineering Interdisciplinary Learning
 ======
-In this interdisciplinary research, I applied graph neural networks and multimodal fusion to automatically diagnose obstructive sleep apnea syndrome. I propose a multi-source heterogeneous graph fusion framework that can efficiently integrate multimodal clinical data and medical imaging data of patients, and based on this, perform accurate disease diagnosis and intelligent analysis (Complex&Intelligent Systems). In addition, I have designed a cross institutional knowledge transfer framework based on federated semi supervised representation learning to promote the collaborative utilization of medical big data and the application of artificial intelligence in the medical field (Knowledge-Based Systems).
+I applied graph neural networks and multimodal fusion to automatically diagnose obstructive sleep apnea syndrome. I propose a multi-source heterogeneous graph fusion framework that can efficiently integrate multimodal clinical data and medical imaging data of patients, and based on this, perform accurate disease diagnosis and intelligent analysis (Complex&Intelligent Systems). In addition, I have designed a cross institutional knowledge transfer framework based on federated semi supervised representation learning to promote the collaborative utilization of medical big data and the application of artificial intelligence in the medical field (Knowledge-Based Systems).
 ![](/images/2.png)
 
 Optimization of Large Language Model Representation and Exploration of Interactive Microscopic Molecular Properties
